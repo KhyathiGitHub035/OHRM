@@ -1,0 +1,9 @@
+<suite name="OrangeHRMApplicationTesting">
+	<test name="LogIn">
+		<classes>
+			<class name="com.OrangeHRMApplicationTestCases.OHRMApplicationLogInFunctionalityTest">
+				
+			</class>
+		</classes>
+	</test>
+</suite>

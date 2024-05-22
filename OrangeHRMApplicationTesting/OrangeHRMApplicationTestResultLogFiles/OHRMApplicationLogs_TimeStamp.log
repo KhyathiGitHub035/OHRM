@@ -1,0 +1,930 @@
+2024-05-14 12:10:56,822 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:10:57,971 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:12:15,728 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:12:16,572 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:13:32,449 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:13:33,404 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:14:12,739 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:14:14,050 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:15:06,397 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:15:07,323 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:18:13,848 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:18:14,597 - Log -INFO - LOGIN Panel
+2024-05-14 12:18:15,001 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:20:20,513 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:20:21,192 - Log -INFO - LOGIN Panel
+2024-05-14 12:20:21,648 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:27:27,868 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:27:28,653 - Log -INFO - LOGIN Panel
+2024-05-14 12:27:29,158 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:35:09,344 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:35:10,062 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 12:35:10,117 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 12:35:10,577 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 12:37:00,319 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 12:37:01,264 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 12:37:01,342 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 12:37:01,850 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:20:59,669 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:21:00,110 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:21:00,138 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:21:00,356 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:26:19,177 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:26:19,590 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:26:19,624 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:26:19,629 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 13:26:19,858 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:31:45,572 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:31:45,976 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:31:46,006 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:31:46,010 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 13:31:46,013 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 13:31:46,237 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:33:04,758 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:33:05,172 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:33:05,212 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:33:05,217 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 13:33:05,220 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 13:33:05,469 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:46:17,050 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:46:17,629 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:46:17,739 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:46:17,743 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 13:46:17,747 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 13:46:17,763 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 13:46:18,305 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:50:40,934 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:50:41,722 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:50:41,791 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:50:41,796 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 13:50:41,798 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 13:50:41,823 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 13:50:41,827 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page
+2024-05-14 13:50:42,437 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 13:51:06,712 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 13:51:07,742 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:51:07,837 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 13:51:07,845 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 13:51:07,850 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 13:51:07,868 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 13:51:07,872 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 13:51:08,336 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:29:34,434 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:29:35,087 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:29:35,166 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:29:35,174 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:29:35,178 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:29:35,202 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:29:35,207 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:29:35,658 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:30:13,975 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:30:14,566 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:30:14,611 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:30:14,616 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:30:14,620 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:30:14,638 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:30:14,643 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:30:15,010 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:31:24,431 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:31:25,425 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:31:25,599 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:31:25,604 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:31:25,609 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:31:25,650 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:31:25,654 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:31:26,172 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:31:51,400 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:31:52,071 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:31:52,152 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:31:52,158 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:31:52,162 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:31:52,178 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:31:52,183 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:31:52,608 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:35:26,645 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:35:27,276 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:35:27,317 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:35:27,322 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:35:27,327 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:35:27,338 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:35:27,343 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:35:27,632 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:36:08,376 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:36:08,991 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:36:09,137 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:36:09,140 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:36:09,143 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:36:09,161 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:36:09,166 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:36:09,611 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:40:54,123 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:40:54,821 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:40:54,879 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:40:54,885 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:40:54,889 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:40:54,936 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:40:54,940 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:40:55,383 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:43:18,258 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:43:18,883 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:43:18,952 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:43:18,957 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:43:18,961 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:43:19,044 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:43:19,048 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:43:19,394 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:47:31,723 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:47:32,148 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:47:32,192 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:47:32,196 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:47:32,199 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:47:32,208 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:47:32,211 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:47:32,433 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:49:30,310 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:49:30,756 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:49:30,797 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:49:30,803 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:49:30,810 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:49:30,825 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:49:30,831 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:49:31,101 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:51:30,529 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:51:30,999 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:51:31,040 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:51:31,045 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:51:31,047 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:51:31,056 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:51:31,061 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:51:31,306 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:53:40,750 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:53:41,154 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:53:41,187 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:53:41,191 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:53:41,194 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:53:41,203 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:53:41,206 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:53:41,426 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:53:47,671 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:53:48,167 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:53:48,205 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:53:48,209 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:53:48,212 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:53:48,220 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:53:48,223 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:53:48,415 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:54:25,610 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:54:26,062 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:54:26,099 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:54:26,103 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:54:26,106 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:54:26,115 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:54:26,118 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:54:26,374 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 14:54:30,938 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 14:54:31,546 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:54:31,590 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 14:54:31,595 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 14:54:31,598 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 14:54:31,610 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 14:54:31,613 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 14:54:31,870 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:00:33,200 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:00:33,604 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:00:33,655 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:00:33,659 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:00:33,662 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:00:33,673 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:00:33,676 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:01:08,276 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:01:08,699 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:01:08,742 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:01:08,745 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:01:08,748 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:01:08,759 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:01:08,762 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:02:07,899 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:02:08,315 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:02:08,355 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:02:08,359 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:02:08,362 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:02:08,371 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:02:08,374 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:02:10,299 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:02:10,302 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:02:10,304 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:02:53,933 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:02:54,356 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:02:54,398 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:02:54,403 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:02:54,408 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:02:54,418 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:02:54,420 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:02:56,285 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:02:56,289 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:02:56,291 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:03:26,642 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:04:20,324 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:04:20,755 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:04:20,787 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:04:20,791 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:04:20,794 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:04:20,802 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:04:20,806 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:04:22,453 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:04:22,456 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:04:22,458 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:04:48,932 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:04:49,395 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:04:49,457 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:04:49,460 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:04:49,463 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:04:49,471 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:04:49,474 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:04:51,204 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:04:51,207 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:04:51,230 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:04:52,816 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:05:26,576 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:06:02,370 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:06:02,796 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:06:02,830 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:06:02,834 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:06:02,837 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:06:02,844 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:06:02,848 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:06:04,409 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:06:04,411 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:06:04,413 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:06:47,714 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:06:48,129 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:06:48,158 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:06:48,162 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:06:48,165 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:06:48,175 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:06:48,179 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:06:49,897 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:06:49,900 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:06:49,902 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:07:25,302 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:09:03,396 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:09:03,807 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:09:03,843 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:09:03,847 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:09:03,850 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:09:03,859 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:09:03,862 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:09:05,772 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:09:05,775 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:09:05,778 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:09:25,967 - Log -INFO - Exception is:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Logo"}
+  (Session info: chrome=124.0.6367.156)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-D354NA9R', ip: '192.168.72.122', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.156, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\khyat\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64800}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b66eb8523264e912fd65a14658af25a
+*** Element info: {Using=link text, value=Logo}
+2024-05-14 15:09:41,165 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:10:46,461 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:10:46,867 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:10:46,897 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:10:46,901 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:10:46,903 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:10:46,912 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:10:46,915 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:10:48,590 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:10:48,599 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:10:48,602 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:10:51,009 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:10:51,011 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:10:51,013 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:10:53,770 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:10:53,777 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:10:53,786 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:10:56,291 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:10:56,294 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:10:56,298 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:10:58,700 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:10:58,700 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:10:58,700 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:11:01,346 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:11:01,350 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:11:01,351 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:11:02,684 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:11:50,120 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:11:50,553 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:11:50,591 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:11:50,595 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:11:50,598 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:11:50,606 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:11:50,609 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:11:52,445 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:11:52,448 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:11:52,450 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:11:54,837 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:11:54,837 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:11:54,837 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:11:57,419 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:11:57,424 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:11:57,429 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:11:59,984 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:11:59,987 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:11:59,987 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:12:02,410 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:12:02,410 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:12:02,421 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:12:04,892 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:12:04,895 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:12:04,897 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:12:06,237 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:29:10,388 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:29:10,831 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:29:10,880 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:29:10,884 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:29:10,886 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:29:10,901 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:29:10,904 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:29:12,902 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:29:12,905 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:29:12,907 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:29:15,687 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:29:15,689 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:29:15,691 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:29:18,184 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:29:18,189 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:29:18,198 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:29:38,594 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:29:38,999 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:29:39,037 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-14 15:29:39,040 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-14 15:29:39,044 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-14 15:29:39,053 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-14 15:29:39,056 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-14 15:29:40,809 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:29:40,812 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:29:40,815 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:30:58,662 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:30:59,263 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:33:37,144 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:34:54,337 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:35:09,105 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:39:12,976 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:39:13,721 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:40:09,108 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:40:10,035 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:45:03,888 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:45:06,505 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:47:16,581 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:47:19,362 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:48:28,838 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:48:31,144 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:52:28,006 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:52:30,435 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:53:38,644 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:53:41,065 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:55:19,909 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:55:22,564 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:56:05,989 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:56:08,370 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:56:08,374 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:56:08,376 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:56:09,643 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 15:58:23,434 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 15:58:26,009 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 15:58:26,012 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 15:58:26,014 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 15:58:48,528 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:00:08,514 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:00:10,854 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:00:10,857 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:00:10,861 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:00:33,146 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:01:14,688 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:01:17,306 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:01:17,309 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:01:17,312 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:01:20,626 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:01:47,381 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:01:49,642 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:01:49,646 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:01:49,648 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:01:52,001 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:05:03,303 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:05:05,594 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:05:05,597 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:05:05,599 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:05:23,644 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:06:04,295 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:06:06,747 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:06:06,750 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:06:06,752 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:06:24,192 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:07:14,050 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:07:16,386 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:07:16,390 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:07:16,392 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:08:21,337 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:08:25,856 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:08:25,861 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:08:25,863 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:08:27,066 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:11:59,722 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:12:50,874 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:13:22,775 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:13:42,340 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:17:55,609 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:18:46,580 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:20:28,184 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:20:33,943 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:20:33,949 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:20:33,954 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:20:50,206 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:21:29,948 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:21:34,656 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:21:34,659 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:21:34,661 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:21:39,727 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:21:39,733 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:21:39,734 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:22:16,038 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:22:21,611 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:22:21,612 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:22:21,612 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:27:17,289 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:27:17,972 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:27:18,068 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:27:18,075 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:27:18,081 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:27:18,102 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:27:57,490 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:27:58,150 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:27:58,223 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:27:58,229 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:27:58,233 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:27:58,253 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:28:03,159 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:03,174 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:03,178 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:28:11,714 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:11,722 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:11,727 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:28:17,654 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:17,658 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:17,668 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:28:23,523 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:23,531 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:23,535 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:28:28,964 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:28,964 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:28,978 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:28:34,520 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:28:34,531 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:28:34,533 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:32:28,126 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:32:29,077 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:32:29,158 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:32:29,164 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:32:29,170 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:32:29,184 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:32:34,367 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:32:34,379 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:32:34,383 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:32:39,836 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:32:39,851 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:32:39,851 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:37:27,478 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:37:28,207 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:37:28,277 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:37:28,285 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:37:28,290 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:37:28,309 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:37:28,315 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:38:34,675 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:38:35,168 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:38:35,225 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:38:35,230 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:38:35,233 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:38:35,250 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:38:35,252 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:38:38,397 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:38:38,436 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:38:38,438 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 16:38:39,976 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:38:39,979 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:38:39,981 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:38:56,102 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:42:39,915 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:42:40,350 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:42:40,404 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:42:40,409 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:42:40,412 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:42:40,429 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:42:40,431 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:42:43,239 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:42:43,265 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:42:43,267 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 16:42:44,772 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:42:44,772 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:42:44,786 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:43:22,198 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:43:22,641 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:43:22,680 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:43:22,684 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:43:22,687 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:43:22,697 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:43:22,700 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:44:03,978 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:44:04,421 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:44:04,465 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:44:04,470 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:44:04,473 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:44:04,485 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:44:04,488 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:44:07,211 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:44:07,247 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:44:07,249 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 16:44:08,533 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:44:08,533 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:44:08,533 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:44:12,025 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:44:12,103 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:44:12,108 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 16:45:01,032 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:45:01,160 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 16:46:09,005 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 16:46:09,442 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:46:09,489 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 16:46:09,494 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 16:46:09,498 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 16:46:09,509 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 16:46:09,511 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 16:46:12,264 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:46:12,297 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 16:46:12,299 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 16:46:13,925 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 16:46:13,925 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 16:46:13,925 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 16:46:15,350 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 17:46:34,308 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 17:46:35,005 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 17:46:35,056 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 17:46:35,061 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 17:46:35,065 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 17:46:35,099 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 17:46:35,103 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 17:46:38,401 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 17:46:38,440 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 17:46:38,443 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 17:46:40,090 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 17:46:40,092 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 17:46:40,092 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 17:46:42,335 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 17:54:41,445 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 17:54:42,409 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 17:54:42,502 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 17:54:42,509 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 17:54:42,513 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 17:54:42,532 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 17:54:42,535 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 17:54:45,597 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 17:54:45,629 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 17:54:45,637 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 17:54:47,637 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 17:54:47,645 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 17:54:47,645 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 17:54:49,233 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 18:07:20,473 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 18:07:21,429 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 18:07:21,503 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 18:07:21,510 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 18:07:21,515 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 18:07:21,535 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 18:07:21,539 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 18:07:25,302 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 18:07:25,334 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 18:07:25,343 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 18:07:27,408 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 18:07:27,410 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 18:07:27,410 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 18:07:29,121 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-14 18:23:21,883 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-14 18:23:22,684 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 18:23:22,767 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-14 18:23:22,775 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-14 18:23:22,780 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-14 18:23:22,814 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-14 18:23:22,820 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-14 18:23:27,119 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 18:23:27,200 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-14 18:23:27,207 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-14 18:23:29,449 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-14 18:23:29,464 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-14 18:23:29,464 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-14 18:23:31,795 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 18:49:05,443 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 18:49:06,172 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 18:49:06,224 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 18:49:06,232 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-15 18:49:06,237 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-15 18:49:06,254 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-15 18:49:06,258 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-15 18:49:08,590 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:08,593 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:08,597 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:11,545 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:11,548 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:11,550 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:14,604 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:14,607 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:14,612 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:17,487 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:17,487 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:17,501 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:20,590 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:20,590 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:20,599 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:23,602 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:23,607 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:23,607 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:25,514 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 18:49:45,434 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 18:49:46,260 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 18:49:46,332 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 18:49:46,338 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-15 18:49:46,343 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-15 18:49:46,358 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-15 18:49:46,363 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-15 18:49:50,306 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 18:49:50,352 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 18:49:50,352 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-15 18:49:52,182 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:49:52,187 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:49:52,187 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:49:54,015 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 18:55:31,699 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 18:55:32,280 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 18:55:32,327 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 18:55:32,333 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-15 18:55:32,338 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-15 18:55:32,353 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-15 18:55:32,357 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-15 18:55:35,284 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 18:55:35,388 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 18:55:35,391 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-15 18:55:37,246 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:55:37,247 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:55:37,247 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:55:38,946 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 18:56:00,803 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 18:56:01,367 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 18:56:01,418 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 18:56:01,423 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-15 18:56:01,429 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-15 18:56:01,444 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-15 18:56:01,449 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-15 18:56:03,484 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:03,488 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:03,492 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:06,336 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:06,348 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:06,349 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:08,979 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:08,992 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:09,098 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:12,037 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:12,048 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:12,048 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:15,002 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:15,014 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:15,016 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:18,113 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 18:56:18,113 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 18:56:18,124 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 18:56:20,020 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 19:00:31,954 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:00:32,513 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:00:32,562 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:00:32,567 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-15 19:00:32,570 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-15 19:00:32,585 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-15 19:00:32,590 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:00:34,623 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:34,628 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:34,631 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:37,574 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:37,578 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:37,581 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:40,447 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:40,448 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:40,448 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:43,197 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:43,202 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:43,202 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:45,965 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:45,973 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:45,982 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:49,283 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:49,286 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:49,286 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:51,286 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 19:00:53,013 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:00:53,352 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:00:53,541 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:00:53,541 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-15 19:00:53,541 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-15 19:00:53,566 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-15 19:00:53,572 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:00:56,718 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 19:00:56,759 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 19:00:56,763 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-15 19:00:58,468 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:00:58,468 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:00:58,479 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:00:59,669 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 19:01:34,637 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:01:34,640 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:01:35,438 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:01:35,435 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:01:35,500 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:01:35,510 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-15 19:01:35,516 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:01:35,519 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-15 19:01:35,522 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-15 19:01:35,527 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-15 19:01:35,537 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-15 19:01:35,542 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:01:35,551 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-15 19:01:35,557 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:02:07,293 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:02:08,039 - Log -INFO - The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:02:08,092 - Log -INFO - The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:LOGIN Panel
+2024-05-15 19:02:08,098 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS
+2024-05-15 19:02:08,102 - Log -INFO - The Expected Title of the OrangeHRM Application LogIn Page is:orangeHRM
+2024-05-15 19:02:08,117 - Log -INFO - The Actual Title of the OrangeHRM Application LogIn Page is:OrangeHRM
+2024-05-15 19:02:08,121 - Log -INFO - SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:02:10,167 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:10,171 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:10,176 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:12,958 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:12,962 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:12,962 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:15,892 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:15,898 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:15,910 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:18,800 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:18,811 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:18,812 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:21,922 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:21,927 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:21,927 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:24,965 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:24,973 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:24,977 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:26,727 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-15 19:02:28,189 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-15 19:02:28,325 - Log -INFO - The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:02:28,426 - Log -INFO - The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:LOGIN Panel
+2024-05-15 19:02:28,494 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS
+2024-05-15 19:02:28,519 - Log -INFO - The Expected OrangeHRM Application LogIn Page Title is:orangeHRM
+2024-05-15 19:02:28,551 - Log -INFO - The Actual OrangeHRM Application Title is:OrangeHRM
+2024-05-15 19:02:28,568 - Log -INFO - Successfully Navigated to the OrangeHRM Application LogIn Page-PASS
+2024-05-15 19:02:31,724 - Log -INFO - The Expected OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 19:02:31,768 - Log -INFO - The Actual OrangeHRM Application Add Employee Page Text:Full Name
+2024-05-15 19:02:31,771 - Log -INFO - Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS
+2024-05-15 19:02:33,645 - Log -INFO - The Actual OrangeHRM Application Home Page Text is:Welcome Admin
+2024-05-15 19:02:33,648 - Log -INFO - The Expected OrangeHRM Application Home Page Text is:Admin
+2024-05-15 19:02:33,652 - Log -INFO - Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS
+2024-05-15 19:02:34,760 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:02:18,305 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:02:18,781 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:02:21,391 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:02:21,683 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:02:56,641 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:02:57,266 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:02:59,222 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:02:59,395 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:04:56,386 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:04:56,943 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:04:58,963 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:04:59,136 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:05:43,848 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:05:44,501 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:05:46,333 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:05:46,560 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:06:20,178 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:06:20,734 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:06:22,554 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:06:22,655 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:06:22,818 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:07:42,334 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:07:42,848 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:07:44,530 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:07:44,647 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:07:44,813 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:09:12,841 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:09:13,417 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:09:15,439 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:09:15,573 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:09:15,704 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:09:17,360 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:09:19,959 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:10:02,736 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:10:03,347 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:10:05,228 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:10:05,300 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:10:05,445 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:10:07,484 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:10:09,910 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:11:38,388 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:11:38,983 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:11:40,735 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:11:40,827 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:11:41,068 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:11:42,702 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:11:44,914 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:12:43,430 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:12:43,970 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:12:45,581 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:12:45,681 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:12:45,841 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:12:47,729 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:12:47,859 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:13:13,144 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:13:13,861 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:13:15,511 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:13:15,618 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:13:15,704 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:13:17,516 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:13:19,820 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:15:18,728 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:15:18,741 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:15:18,787 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:15:18,790 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:15:18,980 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:15:20,799 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:15:20,912 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:15:21,051 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:15:22,913 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:15:25,445 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:15,860 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:35:15,871 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:35:15,967 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:35:15,970 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:35:16,245 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:18,227 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:35:18,336 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:35:18,495 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:20,195 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:35:20,313 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:42,318 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:35:42,337 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:35:42,409 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:35:42,412 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:35:42,578 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:44,045 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:35:44,163 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:35:44,311 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:35:46,311 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:36:04,240 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:45:44,396 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:45:44,412 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:45:44,497 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:45:44,502 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:45:44,776 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:45:47,016 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:45:47,120 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:45:47,318 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:45:48,859 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:45:49,540 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:51:18,052 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:51:18,064 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:51:18,128 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:51:18,133 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:51:18,421 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:51:20,310 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:51:20,473 - Log -INFO - OrangeHRM Applicaiton LogIn Page Contains LOGO - PASS
+2024-05-16 18:51:20,706 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:51:22,203 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:51:22,786 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:56:18,072 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:56:18,086 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:56:18,161 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 18:56:18,166 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 18:56:18,382 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:56:20,210 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:56:20,320 - Log -INFO - OrangeHRM Application LogIn Page Contains LOGO - PASS
+2024-05-16 18:56:20,472 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 18:56:22,186 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 18:56:22,718 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 19:24:06,193 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 19:24:06,203 - Log -INFO - The Expected OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 19:24:06,257 - Log -INFO - The Actual OrangeHRM Application LogIn Page Text is:LOGIN Panel
+2024-05-16 19:24:06,260 - Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page-PASS
+2024-05-16 19:24:06,381 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 19:24:07,761 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 19:24:07,833 - Log -INFO - OrangeHRM Application LogIn Page Contains LOGO - PASS
+2024-05-16 19:24:07,909 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********
+2024-05-16 19:24:09,058 - Log -INFO -  ************ OrangeHRM Application Launched Successfully ************
+2024-05-16 19:24:09,345 - Log -INFO -  **************** OrangeHRM Application Closed Successfully *********

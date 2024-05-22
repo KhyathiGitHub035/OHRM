@@ -1,0 +1,17 @@
+package com.Rediffmail;
+
+import org.openqa.selenium.By;
+
+public class RediffMailCreateAccount 
+
+{
+	public void createAccount()
+	{
+		//<u>Create a new account</u>
+		//<a href="//register.rediff.com/register/register.php?FormName=user_details" 
+		//title="Create new Rediffmail account"><u>Create a new account</u></a>
+		
+		By.xpath("//a[@title=\'Create new Rediffmail account\']")
+	}
+
+}

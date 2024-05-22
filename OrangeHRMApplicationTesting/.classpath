@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/Copy of xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/OrangeHRMApplication/OrangeHRMApplication/Library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

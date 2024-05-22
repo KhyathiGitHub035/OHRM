@@ -1,0 +1,198 @@
+package com.OrangeHRMApplicationTestCases;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.Utility.Log;
+
+public class OHRMApplicationLogInFunctionalityTest extends BaseTest
+{
+
+	
+	XSSFWorkbook orangeHRMApplicationWorkBook;
+	
+	@Test(priority=1,description="OrangeHRM Application Login Test Validation")
+
+	public void orangeHRMApplicationLogInFunctionalityTest() throws IOException
+	{
+		
+		FileInputStream orangeHRMApplicationTestDataFile=new FileInputStream("C:\\OrangeHRMApplication\\OrangeHRMApplicationTesting\\src\\main\\java\\com\\OrangeHRMApplicationTestDataFIles\\OrangeHRM_LogInTestDataFile.xlsx");
+		
+		orangeHRMApplicationWorkBook=new XSSFWorkbook(orangeHRMApplicationTestDataFile);
+	
+		XSSFSheet orangeHRMApplicationTestDataSheet=orangeHRMApplicationWorkBook.getSheet("LogInTestData");
+		
+		Row oHRMRow1=orangeHRMApplicationTestDataSheet.getRow(1);
+		
+		Cell oHRMRowOfCell=oHRMRow1.getCell(0);
+		
+		String expected_OrangeHRMApplicationLogInPageLogInPanelText=oHRMRowOfCell.getStringCellValue();
+	
+		//System.out.println(expected_LogInPageLogInPanelText);
+		Log.info("The Expected Text of the OrangeHRM Application LogIn Page LogIn Panel is:"+expected_OrangeHRMApplicationLogInPageLogInPanelText);
+		
+		 FileInputStream OHRMApplication=new FileInputStream("C:\\OrangeHRMApplication\\OrangeHRMApplicationTesting\\src\\main\\java\\com\\Config\\OHRMApplication.properties");
+		 
+		 Properties properties=new Properties();
+		 properties.load(OHRMApplication);
+		 
+		 By orangeHRMApplicationLogInPageLogInpanelProperty=By.id(properties.getProperty("logInPageLogInPanelProperty"));
+	     WebElement orangeHRMApplicationLogInPageLogInpanel=driver.findElement(orangeHRMApplicationLogInPageLogInpanelProperty);
+	     
+	     String actual_OrangeHRMApplicationLogInPageLogInPanelText=orangeHRMApplicationLogInPageLogInpanel.getText();
+	     Log.info("The Actual Text of the OrangeHRM Application LogIn Page LogIn Panel is:"+actual_OrangeHRMApplicationLogInPageLogInPanelText);
+	     
+	     Cell actual_Text=oHRMRow1.createCell(2);
+	     actual_Text.setCellValue(actual_OrangeHRMApplicationLogInPageLogInPanelText);
+	     
+	     if(actual_OrangeHRMApplicationLogInPageLogInPanelText.equals(expected_OrangeHRMApplicationLogInPageLogInPanelText))
+	     {
+	    	 Log.info("Successfully Navigated to OrangeHRM Application LogIn Page-TEXT Found-PASS");
+	    	 
+	    	 Cell logInPanelTestResult=oHRMRow1.createCell(3);
+	    	 logInPanelTestResult.setCellValue("PASS");
+	    	 
+	     }
+	     else
+	     {
+	    	 Log.info("Failed to Navigate to OrangeHRM Application LogIn Page-TEXT NOT Found-FAIL");
+	    	 
+	    	 Cell logInPanelTestResult=oHRMRow1.createCell(3);
+	    	 logInPanelTestResult.setCellValue("FAIL");
+	     }
+	     
+	      Cell orangeHRMApplicationLogInPageTitle=oHRMRow1.getCell(4);
+	      String expected_OrangeHRMApplicationLogInPageTitle=orangeHRMApplicationLogInPageTitle.getStringCellValue();
+	      
+	      Log.info("The Expected Title of the OrangeHRM Application LogIn Page is:"+expected_OrangeHRMApplicationLogInPageTitle);
+	      
+	      String actual_OrangeHRMApplicationLogInPageTitle=driver.getTitle();
+	      Log.info("The Actual Title of the OrangeHRM Application LogIn Page is:"+actual_OrangeHRMApplicationLogInPageTitle);
+	      
+	      Cell actual_LogInpageTitle=oHRMRow1.createCell(5);
+	      actual_LogInpageTitle.setCellValue(actual_OrangeHRMApplicationLogInPageTitle);
+	      
+	      if(actual_OrangeHRMApplicationLogInPageTitle.equalsIgnoreCase(expected_OrangeHRMApplicationLogInPageTitle))
+	      {
+	    	  Log.info("SuccessFully Navigated to OrangeHRM Application LogIn Page-PASS");
+	    	  
+	    	  Cell logInPageTextResult=oHRMRow1.createCell(6);
+	    	  logInPageTextResult.setCellValue("PASS");
+	      }
+	      else
+	      {
+	    	  Log.info("Failed to Navigate to OrangeHRM Application LogIn Page-FAIL");
+	    	  
+	    	  Cell logInPageTextResult=oHRMRow1.createCell(6);
+	    	  logInPageTextResult.setCellValue("FAIL");
+	      }
+	    	  
+	    	  int rowsCount=orangeHRMApplicationTestDataSheet.getLastRowNum();
+	    	  
+	    	  for(int rowIndex=1;rowIndex<=rowsCount;rowIndex++)
+	    	  {
+	    		  orangeHRMApplicationTestDataSheet.getRow(rowIndex);
+	    		
+	    		  Cell userNameTestDataCell=oHRMRow1.getCell(7);
+	    		  String userNameTestData=userNameTestDataCell.getStringCellValue();
+	    		  	  
+	    		  By userNameProperty=By.id(properties.getProperty("logInPageUserNameProperty"));
+	    		  WebElement userName=driver.findElement(userNameProperty); 
+	    		  userName.sendKeys(userNameTestData);
+	    		 
+	    		 Cell passwordTestDataCell=oHRMRow1.getCell(8);
+		    	  String passwordTestData=passwordTestDataCell.getStringCellValue();
+		    		 
+		    	  By passwordProperty=By.name(properties.getProperty("logInPagepasswordProperty"));
+		    	  WebElement password=driver.findElement(passwordProperty);
+		    	  password.sendKeys(passwordTestData);
+	    		 
+	    		 By logInButtonProperty=By.className(properties.getProperty("logInPageLogInButtonProperty"));
+	    		 WebElement logInButton=driver.findElement(logInButtonProperty);
+	    		 logInButton.click();
+	    	  
+	    		 
+	    		 try
+	    		 {
+	    			By welcomeAdminProperty= By.partialLinkText(properties.getProperty("orangeHRMApplicationHomePageWelComeAdminProperty"));
+	    			WebElement welComeAdmin=driver.findElement(welcomeAdminProperty);
+	    			
+	    			String actual_OrangeHRMWelcomeAdminText=welComeAdmin.getText();
+	    			Log.info("The Actual OrangeHRM Application Home Page Text is:"+actual_OrangeHRMWelcomeAdminText);
+	    			
+	    			Cell actual_AdminText=oHRMRow1.createCell(10);
+	    			actual_AdminText.setCellValue(actual_OrangeHRMWelcomeAdminText);
+	    			
+	    			
+	    			Cell homePageText=oHRMRow1.getCell(9);
+	    			String expected_OrangeHRMWelcomeAdminText=homePageText.getStringCellValue();
+	    			
+	    			Log.info("The Expected OrangeHRM Application Home Page Text is:"+expected_OrangeHRMWelcomeAdminText);
+	    			
+	    			if(actual_OrangeHRMWelcomeAdminText.contains(actual_OrangeHRMWelcomeAdminText))
+	    			{
+	    				Log.info("Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS");
+	    				
+	    				Cell homePageTextResult=oHRMRow1.createCell(11);
+	    				homePageTextResult.setCellValue("PASS");
+	    				
+	    			}
+	    			
+	    			if(welComeAdmin.isDisplayed())
+	    			{
+	    				welComeAdmin.click();
+	    				By logOutProperty=By.partialLinkText(properties.getProperty("homePagelogOutProperty"));
+	    				WebElement logOut=driver.findElement(logOutProperty);
+	    				logOut.click();
+	    			}
+	    			
+	    			 
+	    		 }
+	    		 catch(Exception e)
+	    		 {
+	    			 By invalidCredentialsProperty = By.id(properties.getProperty("invalidCredentialsProperty"));
+
+	    			 WebElement invalidCredentials = driver.findElement(invalidCredentialsProperty);
+
+	    			 String actualinvalidCredentials = invalidCredentials.getText();
+
+	    			 Cell homePageTestResult = oHRMRow1.createCell(11);
+	    			 
+
+	    			 String expecteddataOfLoginInvalid = oHRMRow1.getCell(1).getStringCellValue();
+
+	    			 if (actualinvalidCredentials.equalsIgnoreCase(expecteddataOfLoginInvalid))
+	    			 {
+
+	    			 System.out.println("Failed To login Due to invalid Credentials:-Fail");
+
+	    			 homePageTestResult.setCellValue("Fail");
+	    	     }
+	    		 }
+	    	  
+	    	  }
+	     
+		
+		FileOutputStream orangeHRMApplicationLogInTestResultFile=new FileOutputStream("C:\\\\OrangeHRMApplication\\\\OrangeHRMApplicationTesting\\\\src\\\\main\\\\java\\\\com\\\\OrangeHRMApplicationTestResultFIles\\\\OrangeHRM_LogInTestResultFile.xlsx");
+		orangeHRMApplicationWorkBook.write(orangeHRMApplicationLogInTestResultFile);
+		
+		
+	}
+	
+	
+
+	
+	
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-14T18:00:30 IST" name="Default suite" finished-at="2024-05-14T18:00:56 IST" duration-ms="26391">
+    <groups>
+    </groups>
+    <test started-at="2024-05-14T18:00:30 IST" name="Default test" finished-at="2024-05-14T18:00:56 IST" duration-ms="26391">
+      <class name="oHRM_LoginFunctionality.OrangeHRMApplicationLoginFunctionalityTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:oHRM_LoginFunctionality.OrangeHRMApplicationLoginFunctionalityTest@2f217633]" started-at="2024-05-14T18:00:30 IST" name="applicationLaunch" finished-at="2024-05-14T18:00:32 IST" duration-ms="2505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="orangeHRMApplicationLoginFunctionalityTest()[pri:1, instance:oHRM_LoginFunctionality.OrangeHRMApplicationLoginFunctionalityTest@2f217633]" started-at="2024-05-14T18:00:32 IST" name="orangeHRMApplicationLoginFunctionalityTest" description="OrangeHRM Application Login Test Validation" finished-at="2024-05-14T18:00:56 IST" duration-ms="23670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMApplicationLoginFunctionalityTest -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:oHRM_LoginFunctionality.OrangeHRMApplicationLoginFunctionalityTest@2f217633]" started-at="2024-05-14T18:00:56 IST" name="applicationClose" finished-at="2024-05-14T18:00:56 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- oHRM_LoginFunctionality.OrangeHRMApplicationLoginFunctionalityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

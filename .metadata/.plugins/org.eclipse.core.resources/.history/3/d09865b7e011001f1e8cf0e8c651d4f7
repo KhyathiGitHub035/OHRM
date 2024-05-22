@@ -1,0 +1,282 @@
+package com.OHRM_AddEmployee;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.Utility.Log;
+public class OrangeHRMApplication_AddEmployeeTest extends BaseTest
+{
+
+	FileInputStream orangeHRMApplicationTestDataFile;
+	XSSFWorkbook orangeHRMApplicationWorkBook;
+	XSSFSheet orangeHRMApplicationTestDataSheet;
+	Row orangeHRMRow;
+	Cell orangeHRMRowOfCell;
+	FileOutputStream orangeHRMApplicationLogInTestResultFile;
+    
+
+
+	@Test(priority=1,description="OrangeHRM Application Add Employee Test")
+	public void orangeHRMApplication_AddEmployee() throws IOException  
+	{
+       orangeHRMApplicationTestDataFile=new FileInputStream("C:\\OrangeHRMApplication\\OrangeHRMApplicationTesting\\src\\main\\java\\com\\OrangeHRMApplicationTestDataFIles\\AddEmployee.xlsx");
+		
+		orangeHRMApplicationWorkBook=new XSSFWorkbook(orangeHRMApplicationTestDataFile);
+		
+		orangeHRMApplicationTestDataSheet=orangeHRMApplicationWorkBook.getSheet("Sheet1");
+		
+		orangeHRMRow=orangeHRMApplicationTestDataSheet.getRow(1);
+		
+		orangeHRMRowOfCell=orangeHRMRow.getCell(0);
+		
+		String expected_OrangeHRMLogInPageText=orangeHRMRowOfCell.getStringCellValue();
+		
+		Log.info("The Expected OrangeHRM Application LogIn Page LogIn Panel Text is:"+expected_OrangeHRMLogInPageText);
+		
+		 FileInputStream OHRMApplication=new FileInputStream("C:\\OrangeHRMApplication\\OrangeHRMApplicationTesting\\src\\main\\java\\com\\Config\\OHRMApplication.properties");
+		 Properties properties=new Properties();
+		 properties.load(OHRMApplication);
+		 
+		By orangeHRMApplicationLogInPageLogInPanelProperty=By.id(properties.getProperty("logInPageLogInPanelProperty"));
+		WebElement orangeHRMApplicationLogInPageLogInPanel=driver.findElement(orangeHRMApplicationLogInPageLogInPanelProperty);
+		
+		String actual_OrangeHRMLogInPageText=orangeHRMApplicationLogInPageLogInPanel.getText();
+		
+		Log.info("The  Actual OrangeHRM Application LogIn Page LogIn Panel Text is:"+actual_OrangeHRMLogInPageText);
+		
+		 orangeHRMRowOfCell=orangeHRMRow.createCell(2);
+		 orangeHRMRowOfCell.setCellValue(actual_OrangeHRMLogInPageText);
+		 
+		 if(actual_OrangeHRMLogInPageText.equals(expected_OrangeHRMLogInPageText))
+		 {
+
+			 Log.info("Successfully Navigated to the OrangeHRM Application LogIn Page-TEXT FOUND--PASS");
+			 orangeHRMRowOfCell=orangeHRMRow.createCell(3);
+			 orangeHRMRowOfCell.setCellValue("PASS");
+			 
+		 }
+		 else
+		 {
+			
+			 Log.info("Failed to Navigate to the OrangeHRM Application LogIn Page-FAIL");
+			 orangeHRMRowOfCell=orangeHRMRow.createCell(3);
+			 orangeHRMRowOfCell.setCellValue("FAIL");
+		 }
+		 
+		 Cell expected_Title=orangeHRMRow.getCell(4);
+		 String expected_OrangeHRMLogInPageTitle=expected_Title.getStringCellValue();
+		 
+		 
+		 Log.info("The Expected OrangeHRM Application LogIn Page Title is:"+expected_OrangeHRMLogInPageTitle);
+		 
+		 String actual_OrangeHRMLogInPageTitle=driver.getTitle();
+		 
+		 Log.info("The Actual OrangeHRM Application Title is:"+actual_OrangeHRMLogInPageTitle);
+		 
+		 orangeHRMRowOfCell=orangeHRMRow.createCell(5);
+		 orangeHRMRowOfCell.setCellValue(actual_OrangeHRMLogInPageTitle);
+		 
+		 if(actual_OrangeHRMLogInPageTitle.equalsIgnoreCase(expected_OrangeHRMLogInPageTitle))
+		 {
+			 System.out.println("Successfully Navigated to the OrangeHRM Application LogIn Page-PASS");
+			 orangeHRMRowOfCell=orangeHRMRow.createCell(6);
+			 orangeHRMRowOfCell.setCellValue("PASS");
+			 
+		 }
+		 else
+		 {
+			 System.out.println("Failed to Navigate to the OrangeHRM Application LogIn Page-FAIL");
+			 orangeHRMRowOfCell=orangeHRMRow.createCell(6);
+			 orangeHRMRowOfCell.setCellValue("FAIL");
+		 }	
+		 		
+		
+  			 int rowsCount=orangeHRMApplicationTestDataSheet.getLastRowNum();
+  			 
+  			 for(int rowIndex=1;rowIndex<=rowsCount;rowIndex++)
+  			 {
+  				orangeHRMApplicationTestDataSheet.getRow(rowIndex);
+  				 
+  				 Cell userNameTestDataCell=orangeHRMRow.getCell(7);
+  				 String userNameTestData=userNameTestDataCell.getStringCellValue();
+  				  	  
+  				  By userNameProperty=By.id(properties.getProperty("logInPageUserNameProperty"));
+  				  WebElement userName=driver.findElement(userNameProperty); 
+  				  userName.sendKeys(userNameTestData);
+  				 
+  				 Cell passwordTestDataCell=orangeHRMRow.getCell(8);
+  		   	     String passwordTestData=passwordTestDataCell.getStringCellValue();
+  		   		 
+  		   	      By passwordProperty=By.name(properties.getProperty("logInPagepasswordProperty"));
+  		   	      WebElement password=driver.findElement(passwordProperty);
+  		   	      password.sendKeys(passwordTestData);
+  				 
+  				   By logInButtonProperty=By.className(properties.getProperty("logInPageLogInButtonProperty"));
+  				   WebElement logInButton=driver.findElement(logInButtonProperty);
+  				   logInButton.click();
+  			  
+  		  			
+  		  			
+  		  			 By pimProperty=By.id("menu_pim_viewPimModule");
+  		  			 WebElement pim=driver.findElement(pimProperty);
+  		  			 
+  		  			 Actions pimActions=new Actions(driver);
+  		  			 pimActions.moveToElement(pim).build().perform();
+  		  			 
+  		  			 //<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee" id="menu_pim_addEmployee">Add Employee</a>
+  		  			 
+  		  			 By pimAddEmployeeProperty=By.id("menu_pim_addEmployee");
+  		  			 WebElement pimAddEmployee=driver.findElement(pimAddEmployeeProperty);
+  		  			 pimAddEmployee.click();
+  		  	        
+  		  			 Cell addEmployeePageText=orangeHRMRow.getCell(12);
+  		  			 String expected_AddEmployeePageText=addEmployeePageText.getStringCellValue();
+  		  			 
+  		  			 System.out.println("The Expected OrangeHRM Application Add Employee Page Text:"+expected_AddEmployeePageText);
+  		  			 
+  		  			 //<label class="hasTopFieldHelp">Full Name</label>
+  		  			 
+  		  			 ///html/body/div[1]/div[3]/div/div[2]/form/fieldset/ol/li[1]/label
+  		  			 
+  		  			 By addEmployeetext=By.xpath("/html/body/div[1]/div[3]/div/div[2]/form/fieldset/ol/li[1]/label");
+  		  			 WebElement actual_AddEmployee=driver.findElement(addEmployeetext);
+  		  			 
+  		  			 String actual_AddEmployeeText=actual_AddEmployee.getText();
+  		  			 System.out.println("The Actual OrangeHRM Application Add Employee Page Text:"+actual_AddEmployeeText);
+  		  			 
+  		  			 orangeHRMRowOfCell=orangeHRMRow.createCell(13);
+  		  			 orangeHRMRowOfCell.setCellValue(actual_AddEmployeeText);
+  		  			 
+  		  			 if(actual_AddEmployeeText.equals(expected_AddEmployeePageText))
+  		  			 {
+  		  				 System.out.println("Successfully Navigated to OrangeHRM Application Add Employee Page-TEXT FOUND-PASS");
+  		  				 orangeHRMRowOfCell=orangeHRMRow.createCell(14);
+  		  				 orangeHRMRowOfCell.setCellValue("PASS");
+  		  				
+  		  			 }
+  		  				 else
+  		  				 {
+  		  					 System.out.println("Failed to Navigate to OrangeHRM Application Add Employee Page-TEXT NOT FOUND-PASS");
+  		  					 orangeHRMRowOfCell=orangeHRMRow.createCell(14);
+  		  					 orangeHRMRowOfCell.setCellValue("FAIL");
+  		  				 }
+  				
+  			 Cell f_name= orangeHRMRow.getCell(15);
+  			 String addEmployeeFirstName=f_name.getStringCellValue();
+  			 
+  			 By addEmployee_FirstNameProperty=By.id("firstName");
+  			 WebElement addEmployee_FirstName=driver.findElement(addEmployee_FirstNameProperty);
+  			 addEmployee_FirstName.sendKeys(addEmployeeFirstName);
+  			 
+  			 
+  			 Cell m_Name=orangeHRMRow.getCell(16);
+  			 String addEmployeeMiddleName=m_Name.getStringCellValue();
+  			
+  			 By addEmployee_MiddleNameProperty=By.id("middleName");
+  			 WebElement addEmployee_MiddleName=driver.findElement(addEmployee_MiddleNameProperty);
+  			 addEmployee_MiddleName.sendKeys(addEmployeeMiddleName);
+  			 
+  			 Cell l_Name=orangeHRMRow.getCell(17);
+  			 String addEmployeeLastName=l_Name.getStringCellValue();
+   			 
+  			 By addEmployee_LastNameProperty=By.id("lastName");
+  			 WebElement addEmployee_LastName=driver.findElement(addEmployee_LastNameProperty);
+  			 addEmployee_LastName.sendKeys(addEmployeeLastName);
+  		
+  			 By saveButtonProperty=By.id("btnSave");
+  			 WebElement saveButton=driver.findElement(saveButtonProperty);
+  			 saveButton.click();
+  			 
+  			 driver.navigate().back();
+  			 /*
+  			  tsrtcHomePageHeaderBlock=driver.findElement(tsrtcHomePageHeaderBlockProperty);
+  			   tsrtcHeaderBlockLinks=tsrtcHomePageHeaderBlock.findElements(tsrtcHomePageHeaderBlockLinksProperty);
+  			  */
+  			
+  			 		
+  			 
+  			 }		
+
+    		 try
+    		 {
+    			By welcomeAdminProperty= By.partialLinkText(properties.getProperty("orangeHRMApplicationHomePageWelComeAdminProperty"));
+    			WebElement welComeAdmin=driver.findElement(welcomeAdminProperty);
+    			
+    			String actual_OrangeHRMWelcomeAdminText=welComeAdmin.getText();
+    			Log.info("The Actual OrangeHRM Application Home Page Text is:"+actual_OrangeHRMWelcomeAdminText);
+    			
+    			Cell actual_AdminText=orangeHRMRow.createCell(10);
+    			actual_AdminText.setCellValue(actual_OrangeHRMWelcomeAdminText);
+    			
+    			
+    			Cell homePageText=orangeHRMRow.getCell(9);
+    			String expected_OrangeHRMWelcomeAdminText=homePageText.getStringCellValue();
+    			
+    			Log.info("The Expected OrangeHRM Application Home Page Text is:"+expected_OrangeHRMWelcomeAdminText);
+    			
+    			if(actual_OrangeHRMWelcomeAdminText.contains(actual_OrangeHRMWelcomeAdminText))
+    			{
+    				Log.info("Successfully Navigated to OrangeHRM Application Home Page-TEXT Found-PASS");
+    				
+    				Cell homePageTextResult=orangeHRMRow.createCell(11);
+    				homePageTextResult.setCellValue("PASS");
+    				
+    			}
+    			
+    			if(welComeAdmin.isDisplayed())
+    			{
+    				welComeAdmin.click();
+    				By logOutProperty=By.partialLinkText(properties.getProperty("homePagelogOutProperty"));
+    				WebElement logOut=driver.findElement(logOutProperty);
+    				logOut.click();
+    			}
+    			
+    			 
+    		 }
+    		 catch(Exception e)
+    		 {
+    			 By invalidCredentialsProperty = By.id(properties.getProperty("invalidCredentialsProperty"));
+
+    			 WebElement invalidCredentials = driver.findElement(invalidCredentialsProperty);
+
+    			 String actualinvalidCredentials = invalidCredentials.getText();
+
+    			 Cell homePageTestResult = orangeHRMRow.createCell(11);
+
+    			 String expecteddataOfLoginInvalid = orangeHRMRow.getCell(1).getStringCellValue();
+
+    			 if (actualinvalidCredentials.equalsIgnoreCase(expecteddataOfLoginInvalid))
+    			 {
+
+    			 System.out.println("Failed To login Due to invalid Credentials:-Fail");
+
+    			 homePageTestResult.setCellValue("Fail");
+    	     }
+    		 }
+    	  
+    		 
+  			 }
+  			 
+		 FileOutputStream orangeHRMApplicationTestResultFile=new FileOutputStream("C:\\OrangeHRMApplication\\OrangeHRMApplicationTesting\\src\\main\\java\\com\\OrangeHRMApplicationTestResultFIles\\AddEmployeeResult.xlsx");
+         orangeHRMApplicationWorkBook.write(orangeHRMApplicationTestResultFile);
+		 
+       
+	
+	
+
+	
+	}
+	
+}
